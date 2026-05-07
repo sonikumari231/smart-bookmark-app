@@ -1,5 +1,7 @@
-
 # Smart Bookmark App
+
+🌐 Live Demo: https://smart-bookmark-app-12rk.vercel.app  
+📁 GitHub Repository: https://github.com/sonikumari231/smart-bookmark-app
 
 A modern real-time bookmark manager built using Next.js, Supabase, TypeScript, and Tailwind CSS. Users can securely save, organize, search, and manage bookmarks with Google authentication and real-time syncing.
 
@@ -146,7 +148,6 @@ The application is deployed on Vercel and connected with Supabase for authentica
 ## 👩‍💻 Author
 
 **Soni Kumari**  
-MCA — NIT Jamshedpur  
 
 GitHub: https://github.com/sonikumari231  
 LinkedIn: https://www.linkedin.com/in/soni-kumari-0817bb203/
